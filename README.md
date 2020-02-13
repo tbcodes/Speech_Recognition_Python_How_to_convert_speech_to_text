@@ -1,2 +1,4 @@
-# Speech_Recognition_Python_How_to_convert_speech_to_text
-Speech recognition in Python ::: How to convert Speech to Text
+# Speech Recognition in Python: How to convert speech to text
+## Speech recognition in Python ::: How to convert Speech to Text
+
+Truzz Blogg - Youtube link: https://www.youtube.com/watch?v=KcjHfnCteZg
